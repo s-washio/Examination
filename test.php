@@ -9,5 +9,7 @@ echo "test\n";
 
 echo "test feature";
 
+// #222333 fix
+echo "test hotfix\n";
 
 ?>
