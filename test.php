@@ -15,4 +15,7 @@ echo "test hotfix 2\n";
 // #1234 fix
 echo "test hotfix\n";
 
+
+// test 
+
 ?>
